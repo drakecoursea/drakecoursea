@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @drakecoursea
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I’m @drakecoursea
+
+🌱 This account is specially for learning purposes with MOOCs (Coursera, Udemy, etc.)
+
+
 
 <!---
 drakecoursea/drakecoursea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
